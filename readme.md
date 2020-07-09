@@ -2,6 +2,6 @@
 
 ![ninja says hello](https://raw.githubusercontent.com/priestine/priestine/master/ninja-says-hello.jpg)
 
-Hi, my name is Sergei. This is my main GitHub account where I create projects and contribute to existing ones. Take a look at [@priestine/versions](https://github.com/priestine/versions) - it's a great tool for removing the hustle from versioning your code (and it's programming language agnostic ☝️).
+Hi, my name is Sergei. This is my main GitHub account where I create projects and contribute to existing ones. Take a look at [@priestine/versions](https://github.com/priestine/versions) - it's a great tool for removing the hustle from versioning your code (in any programming language ☝️).
 
-I work as a software architect. Apart from that, I sometimes remember to write to the blog of mine at [https://orlove.dev](https://orlove.dev), and learn to draw so you may occasionally see my clumsy images here and there.
+I work as a software architect. I have a blog ([https://orlove.dev](https://orlove.dev)) where I write about "softer" dev stuff. I also learn to draw so you may occasionally see my clumsy images here and there.
