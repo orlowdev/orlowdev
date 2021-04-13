@@ -6,4 +6,4 @@ Hi, my name is Sergei. This is my main GitHub account where I create projects an
 
 I work as a software architect. I have a blog ([https://orlove.dev](https://orlove.dev)) where I write about "softer" dev stuff. I also learn to draw so you may occasionally see my clumsy images here and there.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=orlovedev)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=orlowdev)](https://github.com/ryo-ma/github-profile-trophy)
